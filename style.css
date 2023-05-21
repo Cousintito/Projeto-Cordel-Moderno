@@ -50,9 +50,11 @@ section{
     line-height: 2em;/* espaçamento vertical*/
     padding-left: 30px;
     font-size: 1.2em;
+    border-radius: 4px;
 }
 section > p{
     padding-bottom: 1em;
+    border-radius: 4px;
     
 }
 section.normal{
@@ -88,6 +90,6 @@ box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.856);
 }
 footer{
     background-color: black;
-    text-align: center;
+    text-align: center ;
     padding: 10px;
 }
