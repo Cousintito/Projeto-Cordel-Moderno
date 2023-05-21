@@ -17,11 +17,13 @@ html, css{
     font-family: var(--fonte02);
     font-weight:bold;
     font-size: 1.2em;
+    
 }
 header{
     color: white;
     background-color: black;
     text-align: center;
+    border-radius: 10px 10px 0px 0px;
 }
 
 header > h1{
@@ -50,11 +52,11 @@ section{
     line-height: 2em;/* espaçamento vertical*/
     padding-left: 30px;
     font-size: 1.2em;
-    border-radius: 10px;
+   
 }
 section > p{
     padding-bottom: 1em;
-    border-radius: 10px;
+border-radius: 10px;
     
 }
 section.normal{
